@@ -1,0 +1,22 @@
+.warber {
+    margin: 0 auto;
+    width: 80%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3%;
+}
+
+.blocks {
+    height: 250px;
+    width: 250px;
+    margin: 1%;
+    background-color: rgb(158, 197, 248);
+    border: 2px black solid;
+}
